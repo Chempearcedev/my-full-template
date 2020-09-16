@@ -11,4 +11,4 @@ Inluded in my first project is:
 
 ## labels 
 
-What i have created is three labels all with URLS attached toa clikable title
+What i have created is three labels all with URLS attached and a clikable title
